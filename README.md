@@ -1,7 +1,7 @@
 # README
 
 ## Overview
-This project provides a pipeline for sub-event detection in Twitter streams, leveraging GloVe Twitter embeddings and various machine learning models, as well as large language models (LLMs) and meta-modeling approaches. The following steps outline how to preprocess data, fine-tune an LLM, and calculate predictions using different methodologies.
+This project provides a pipeline for sub-event detection in Twitter streams. Two methodologies are implemented: One leveraging GloVe Twitter embeddings and various classification models, and a second one leveraging large language models (LLMs) and meta-modeling approaches. The following steps outline how to preprocess data, fine-tune an LLM, and calculate predictions using different methodologies. For more details on the context of this repository, the methodologies implemented, and the results achieved, please refer to `Data_challenge_report.pdf`.
 
 ## Prerequisites
 Ensure that you have the following:
