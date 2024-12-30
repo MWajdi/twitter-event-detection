@@ -68,3 +68,6 @@ project_folder/
 ## Notes
 - Ensure that all datasets are properly preprocessed before running the fine-tuning or prediction scripts.
 - Adjust hyperparameters in the scripts and notebooks as necessary to suit specific use cases or hardware constraints.
+
+## Authors
+Aziz Bacha and Wajdi Maatouk
